@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkillsBuild</string>
+    <string name="app_logo_desc">App logo</string>
+    <string name="title_add_calculator">Simple Addition Calculator</string>
+    <string name="hint_first_number">Enter first number</string>
+    <string name="hint_second_number">Enter second number</string>
+    <string name="button_add">ADD</string>
+    <string name="label_answer">Answer</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="label_history">History</string>
+    <string name="button_clear_history">Clear</string>
+</resources>
