@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // Use the XML layout (res/layout/activity_main.xml)
+        // Use the XML layout/entry (res/layout/activity_main.xml)
         setContentView(R.layout.activity_main)
 
         val edit1 = findViewById<EditText>(R.id.editTextNumber)
